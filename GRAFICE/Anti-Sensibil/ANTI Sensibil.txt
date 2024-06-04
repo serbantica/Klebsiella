@@ -1,0 +1,9 @@
+﻿Total Sum of Value was higher for Sensibil (166) than Rezistent (30).﻿﻿
+﻿﻿
+﻿﻿[]﻿﻿
+﻿﻿
+﻿﻿Average Sum of Value was higher for Sensibil (10,38) than Rezistent (5).﻿﻿
+﻿﻿
+﻿﻿Sum of Value for Rezistent and Sensibil diverged the most when the Category was AMP, when Rezistent were 13 higher than Sensibil.﻿﻿
+﻿﻿
+﻿

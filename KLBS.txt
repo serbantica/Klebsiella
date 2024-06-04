@@ -1,0 +1,34 @@
+0. Tipuri / sex / varsta / U-R / Internari anterioare
+1. Tipuri KLBS : Tipuri / sex / varsta / U-R / Internari anterioare
+2. Tipuri KLBS : Rezistente antibiograma
+3. Tipuri KLBS : Comorbiditati
+4. Tipuri KLBS : Dispozitive
+5. Tipuri KLBS : Simptomatologie
+5. Tipuri KLBS : Forma clinica AA / Diagnostic AB
+6. Tipuri KLBS : sumar urina / sange BR-BV
+6. Tipuri KLBS : Durata / 
+
+
+7. Separat fiecare Tip: Forma clinica AA + Diagnostic AB/  Durata tratament / Stare externare
+8. Separat fiecare Tip: 
+9. Cultura control da/nu : 
+
+Starea pacientului la externare (decedat=0, ameliorat=1, vindecat=2, transferat in alt serviciu=4
+
+
+Statistica Nr pacienti cu sonda vs fara
+
+
+
+Ian 3%
+Feb 1.3%
+Mart  3%
+Apr 9.5%
+Mai 14%
+Iunie 9.5%
+Iulie 8%
+Aug 9.5%
+Sept 17.5%
+Oct 8%
+Noi 11%
+Dec 4.7

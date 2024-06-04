@@ -1,0 +1,9 @@
+﻿Total Sum of Value was higher for Rezistent (118) than Sensibil (100).﻿﻿
+﻿﻿
+﻿﻿MEM in Rezistenta Sensibil made up 7,34% of Sum of Value.﻿﻿
+﻿﻿
+﻿﻿Average Sum of Value was higher for Rezistent (9,08) than Sensibil (6,67).﻿﻿
+﻿﻿
+﻿﻿Sum of Value for Rezistent and Sensibil diverged the most when the Category was AMP, when Rezistent were 14 higher than Sensibil.﻿﻿
+﻿﻿
+﻿

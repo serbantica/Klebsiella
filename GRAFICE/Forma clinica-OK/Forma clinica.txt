@@ -1,0 +1,9 @@
+﻿Medie had the highest total Count of Forma clinica (usoara=0, medie=1, grava=3) at 41, followed by Grava at 16 and Usoara at 6.﻿﻿
+﻿﻿
+﻿﻿Carbapenemaze in Forma clinica (usoara, medie=1, grava=3) Medie made up 31,75% of Count of Forma clinica (usoara=0, medie=1, grava=3).﻿﻿
+﻿﻿
+﻿﻿Medie had the highest average Count of Forma clinica (usoara=0, medie=1, grava=3) at 13,67, followed by Grava at 5,33 and Usoara at 2.﻿﻿
+﻿﻿
+﻿﻿[]﻿﻿
+﻿﻿
+﻿

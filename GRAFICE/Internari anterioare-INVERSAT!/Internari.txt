@@ -1,0 +1,9 @@
+﻿At 7, Carbapenemaze had the highest ATI and was Infinity higher than ESBL, which had the lowest ATI at 0.﻿﻿
+﻿﻿
+﻿﻿ATI and total Medicala are positively correlated with each other.﻿﻿
+﻿﻿
+﻿﻿Carbapenemaze accounted for 87,50% of ATI.﻿﻿
+﻿﻿
+﻿﻿Sensibil had 1 ATI, 7 Medicala, and 1 Urologie. Carbapenemaze had 7 ATI, 16 Medicala, and 12 Urologie. ESBL had 0 ATI, 7 Medicala, and 3 Urologie.﻿﻿
+﻿﻿
+﻿

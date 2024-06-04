@@ -1,0 +1,6 @@
+﻿Total Count of SEX (F/M) was higher for F (37) than M (26).﻿﻿
+﻿﻿2 in SEX (F/M) M made up 26,98% of Count of SEX (F/M).﻿﻿
+﻿﻿Average Count of SEX (F/M) was higher for F (12,33) than M (8,67).﻿﻿
+﻿﻿Count of SEX (F/M) for F and M diverged the most when the Tip de K.pn (sensibil =0, ESBL=1, Carbapenemaze=2) was 0, when F were 11 higher than M.﻿﻿
+﻿﻿
+﻿

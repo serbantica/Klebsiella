@@ -1,0 +1,9 @@
+﻿Total Count of Mediu provenienta (U/R) was higher for U (55) than R (8).﻿﻿
+﻿﻿
+﻿﻿Carbapenemaze in RURAL vs URBAN U made up 46,03% of Count of Mediu provenienta (U/R).﻿﻿
+﻿﻿
+﻿﻿Average Count of Mediu provenienta (U/R) was higher for U (18,33) than R (2,67).﻿﻿
+﻿﻿
+﻿﻿Count of Mediu provenienta (U/R) for U and R diverged the most when the Tip de KLEBSIELLA was Carbapenemaze, when U were 26 higher than R.﻿﻿
+﻿﻿
+﻿
